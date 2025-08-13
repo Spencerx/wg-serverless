@@ -316,7 +316,7 @@ Drawbacks include lack of OS control, granular container portability and load ba
 
 ### Drawbacks
 
-* Loss of control over OS,  possibly at the mercy of buildpack versions.
+* Loss of control over OS, possibly at the mercy of buildpack versions.
 
 * More opinionated about application structure, tending towards [12-Factor](https://12factor.net/) microservices best practices at the potential cost of architecture flexibility.
 
